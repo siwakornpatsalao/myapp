@@ -1,3 +1,3 @@
 public class Cat {
-    private int c;
+    private double a;
 }
